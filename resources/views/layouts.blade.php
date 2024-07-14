@@ -19,6 +19,7 @@
         <a class="navbar-brand" href="{{ route('postnik.index') }}">Главная страница</a>
         <a class="navbar-brand" href="#vniz">Программы тренировок</a>
         <a class="navbar-brand" href="#food">План питания</a>
+        <a class="navbar-brand" href="{{ route('postnik.food') }}">Рецепты</a>
         <a class="navbar-brand" href="{{ route('postnik.index') }}">Социальные сети</a>
     </div>
 </nav>

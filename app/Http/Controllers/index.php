@@ -10,4 +10,9 @@ class index extends Controller
     {
         return view('index');
     }
+
+    public function food()
+    {
+        return view('food');
+    }
 }
